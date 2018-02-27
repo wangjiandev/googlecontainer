@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/pause:v1.8.7 
+FROM gcr.io/google_containers/pause:latest 
 MAINTAINER wangjian0504@gmail.com
